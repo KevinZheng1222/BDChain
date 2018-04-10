@@ -1,1 +1,1 @@
-# BDChain
+# BDChain 宝岛链
